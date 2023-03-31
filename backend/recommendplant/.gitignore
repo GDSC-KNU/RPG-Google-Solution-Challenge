@@ -1,0 +1,8 @@
+.env
+.well-known/
+ca_bundle.crt
+certificate.crt
+private.key
+*/__pycache__
+data/
+*/migrations
